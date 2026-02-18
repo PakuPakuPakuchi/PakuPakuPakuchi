@@ -1,0 +1,7 @@
+{
+  "name": "TCG Forge - AI Trading Card Creator",
+  "description": "An advanced trading card maker that uses AI to generate card lore, stats, and even illustrations. Create professional-looking TCG cards with custom frames, elements, and rarity levels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
